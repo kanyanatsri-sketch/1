@@ -1,0 +1,17 @@
+<svg width="640" height="720" viewBox="0 0 640 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="720" rx="36" fill="#F4F9FF"/>
+  <circle cx="320" cy="250" r="160" fill="#DCEBFF"/>
+  <rect x="140" y="385" width="360" height="230" rx="30" fill="#2563EB"/>
+  <rect x="180" y="440" width="120" height="115" rx="18" fill="#F9FCFF"/>
+  <rect x="330" y="440" width="120" height="115" rx="18" fill="#F9FCFF"/>
+  <circle cx="320" cy="240" r="92" fill="#F6CBA7"/>
+  <path d="M233 240C233 185 276 140 327 140H332C383 140 426 185 426 240V250H233V240Z" fill="#163B67"/>
+  <path d="M250 254C250 204 289 167 340 167C391 167 430 204 430 254V276H250V254Z" fill="#12304F"/>
+  <path d="M278 250C278 200 315 164 365 164C415 164 452 200 452 250V290H278V250Z" fill="#163B67"/>
+  <circle cx="296" cy="232" r="8" fill="#163B67"/>
+  <circle cx="354" cy="232" r="8" fill="#163B67"/>
+  <path d="M300 280C314 296 332 306 350 280" stroke="#C97A4D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M235 388C267 365 315 354 365 368" stroke="#F4F9FF" stroke-width="10" stroke-linecap="round"/>
+  <rect x="182" y="610" width="272" height="24" rx="12" fill="#DCEBFF"/>
+  <text x="320" y="680" text-anchor="middle" fill="#163B67" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Student Portrait</text>
+</svg>
